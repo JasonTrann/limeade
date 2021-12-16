@@ -6,8 +6,11 @@
 2. install robot framework by pip
 
 pip install robotframework
+
 pip install selenium
+
 pip install robotframework-seleniumlibrary
+
 pip install robotframework-zoomba
 
 3. install pycharm
