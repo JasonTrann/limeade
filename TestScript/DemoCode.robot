@@ -22,9 +22,9 @@ Demo full flow
     Click Settings button
     Click Add people button
     break
-    Input 1st Name      demo1
-    Input last Name     test1
-    Input email     demotest2@getnada.com
+    Input 1st Name      demo10
+    Input last Name     test10
+    Input email     demotest10@getnada.com
     Input startdate     31
     Select Mangager     long
     Click to add people button
